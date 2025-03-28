@@ -4,7 +4,6 @@ Purpose of the repository: Projects developed in the Embedded Systems course - E
 
 List of projects with internal links to individual directories: 
 
-- [Galton Board Digital](./projetos/galton_board/)
-- [Traffic Light with Button](./projetos/trafficlight_with_button/)
-- [Temperature Sensor with Alarm](./projetos/temperaturesensor_with_alarm/)
-
+- [Galton Board Digital](./projects/galton_board/)
+- [Sound Synthesizer](./projects/sound_synthesizer/)
+- [Balancing Robot](./projects/balancing_robot/)
