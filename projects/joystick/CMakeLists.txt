@@ -47,7 +47,9 @@ pico_enable_stdio_usb(joystick 0)
 # Add the standard library to the build
 target_link_libraries(joystick
         pico_stdlib
-        hardware_adc)
+        hardware_adc
+        pico_stdlib
+        hardware_gpio)
 
 # Add the standard include files to the build
 target_include_directories(joystick PRIVATE
@@ -56,7 +58,7 @@ target_include_directories(joystick PRIVATE
 
 # Add any user requested libraries
 target_link_libraries(joystick 
-        
+hardware_i2c
         )
 
 pico_add_extra_outputs(joystick)
