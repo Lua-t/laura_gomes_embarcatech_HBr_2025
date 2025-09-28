@@ -4,7 +4,7 @@ Purpose of the repository: Projects developed in the Embedded Systems course - E
 
 List of projects with internal links to individual directories: 
 
-- https://github.com/Lua-t/laura_gomes_embarcatech_HBr_2025/tree/main/Projects/Blink
+- [Blink](https://github.com/Lua-t/laura_gomes_embarcatech_HBr_2025/tree/main/Projects/Blink)
 - https://github.com/Lua-t/laura_gomes_embarcatech_HBr_2025/tree/main/Projects/Counter
 - https://github.com/Lua-t/laura_gomes_embarcatech_HBr_2025/tree/main/Projects/Galton_board
 - https://github.com/Lua-t/laura_gomes_embarcatech_HBr_2025/tree/main/Projects/Joystick
