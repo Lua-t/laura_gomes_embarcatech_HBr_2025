@@ -6,4 +6,3 @@ List of projects with internal links to individual directories:
 
 - [Galton Board Digital](./projects/galton_board/)
 - [Sound Synthesizer](./projects/sound_synthesizer/)
-- [Balancing Robot](./projects/balancing_robot/)
